@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="pro_test.jnlp">
+  <information>
+    <title>pro_test</title>
+    <vendor>Ayman</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="pro_test.jar" size="580482" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="pro_test.Pro_test"  name="pro_test" />
+  <update check="always"/>
+</jnlp>

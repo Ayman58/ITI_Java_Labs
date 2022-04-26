@@ -1,0 +1,7 @@
+#hellotxt{
+   -fx-font: 25px ;
+   -fx-fill: white;
+}
+#myRect{
+   -fx-fill: linear-gradient(from 0px 150px to 0px 300px, reflect,  black, white );
+ }

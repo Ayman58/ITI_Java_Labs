@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="XO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/XO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
